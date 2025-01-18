@@ -1,0 +1,109 @@
+ .icons-youtube {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/youtube.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+   .icons-instagram {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/instagram.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+   .icons-facebook {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/facebook.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-tiktok {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/tik-tok.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-twitch {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/twitch.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+    
+    .icons-kick {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/images.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-telegram {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/telegram.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+    .icons-spotify {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('https://growwsocial.github.io/good-boost.com/images/spotify.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ .hero__bottom.hero__bottom--static {
+    color: #28a745 !important;
+}
+.telegram-button {
+    position: fixed;
+    bottom: 20px; 
+    left: 20px; 
+    z-index: 1000; 
+  }
+  .telegram-button img {
+    background-color: #0088cc; 
+    border-radius: 50%;
+    padding: 10px;
+    width: 60px; 
+    height: 60px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .telegram-button img:active {
+    transform: scale(0.9); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  }
+  .telegram-button img:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  }
+  .login:hover {
+    background-color: #45a049;
+  } 
